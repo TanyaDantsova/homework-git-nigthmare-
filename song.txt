@@ -1,0 +1,22 @@
+﻿vi song.txt
+i , esc - edit text
+shift + : + w  - write and safe
+esc + Z + Z
+
+
+Текст песни
+
+White lips, pale face
+Breathing in snowflakes
+Burnt lungs, sour taste
+Light's gone, day's end
+Struggling to pay rent
+Long nights, strange meni
+
+And they say
+She's in the Class A Team
+She's stuck in her daydream
+Been this way since eighteen
+But lately her face seems
+Slowly sinking, wasting
+Crumbling like pastriesi
